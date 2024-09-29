@@ -16,11 +16,11 @@ Step 3. Using logistic regression find the predicted values of accuracy , confus
 
 Step 4. Display the results.
 ## Program:
-```
-/*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Ariya Viniya.G
 RegisterNumber: 212223080005
+```
+/*
 import pandas as pd
 data = pd.read_csv("C:/Users/admin/Desktop/ML/Placement_Data.csv")
 print(data.head())
